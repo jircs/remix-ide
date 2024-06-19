@@ -1,3 +1,4 @@
 sphinx>=7.0.0
 sphinx-rtd-theme>=1.3.0rc1
 myst-parser
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
